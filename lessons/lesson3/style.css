@@ -1,0 +1,24 @@
+@import "style1.css";
+p{
+    color: violet;
+    background-color: yellow;
+}
+h1{
+    color: blue;
+    font-style: italic
+}
+
+.aaa{
+    color: blue;
+}
+/*.bbb{
+    color: firebrick;
+    background-color: violet;
+}*/
+#ttt{
+    background-color: salmon !important;
+}
+
+div.test #test1 ul li a.test3 {
+
+}
